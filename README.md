@@ -12,10 +12,7 @@ Welcome to **Modern IT Solutions**—your one-stop solution for all printing and
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## About the Project
 
